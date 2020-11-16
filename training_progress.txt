@@ -1,11 +1,9 @@
 Correct calls 968 Incorrect calls 1240 ratio correct: 0.4384057971014493
-2208 2208
 English Right 336 English Wrong 76 English Accuracy 0.8155339805825242
 Afrikaans Right 118 Afrikaans Wrong 10 Afrikaans accuracy 0.921875
 Nederlands Right 0 Nederlands Wrong 13 Nederlands accuracy 0.0
 Total Accuracy 0.8209764918625678
 Correct calls 1799 Incorrect calls 409 ratio correct: 0.8147644927536232
-2208 2208
 English Right 388 English Wrong 24 English Accuracy 0.941747572815534
 Afrikaans Right 106 Afrikaans Wrong 22 Afrikaans accuracy 0.828125
 Nederlands Right 1 Nederlands Wrong 12 Nederlands accuracy 0.07692307692307693

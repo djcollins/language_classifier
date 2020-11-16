@@ -84,7 +84,7 @@ def main_train_loop():
     print(label_ratios)
 
     loss_function= torch.nn.CrossEntropyLoss()
-    optimizer = torch.optim.Adam(classifier_object.parameters(),lr=0.0001) #low learning rate because each sentence does a backprop weight update
+    optimizer = torch.optim.Adam(classifier_object.parameters(),lr=0.001) #low learning rate because each sentence does a backprop weight update
     for n in range(epoch):
         print(f"Epoch {n} beginning:...")
         epoch_start = time.time()
@@ -117,7 +117,7 @@ def main_train_loop():
             pass
             #torch.save(classifier_object, "my_model")
         print(f"Epoch took {time.time()-epoch_start} seconds.")
-        #test_model(classifier_object)
+        test_model(classifier_object)
     #torch.save(classifier_object, "my_model")
 
 
@@ -160,8 +160,8 @@ def test_model(model):
     print(f"Afrikaans Right {afrikaans_right} Afrikaans Wrong {afrikaans_wrong} Afrikaans accuracy {afrikaans_right/(afrikaans_wrong+afrikaans_right)}")
     print(f"Nederlands Right {nederlands_right} Nederlands Wrong {nederlands_wrong} Nederlands accuracy {nederlands_right/(nederlands_right+nederlands_wrong)}")
     print(f"Total Accuracy {(english_right+afrikaans_right+nederlands_right)/(len(afrikaans_samples) + len(english_samples) + len(nederlands_samples))}")
-    inp="w"
-    while input!="q" and input!="Q":
+    inp=""
+    while inp!="q" and inp!="Q":
         inp=clean_string(input("Please enter a sentence in English, Afrikaans, or Dutch, or 'q' to exit : "))
         if(inp=="q"):
             return
