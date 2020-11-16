@@ -4,7 +4,7 @@ import csv
 
 from models.gru_lang_class import GRULanguageClassifier
 
-device = torch.device("cuda")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 #Epoch took 39.84827542304993 seconds.
 #device = torch.device("cpu")
 # Epoch took 113.60103845596313 seconds with cpu
