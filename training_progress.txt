@@ -1,0 +1,152 @@
+Correct calls 968 Incorrect calls 1240 ratio correct: 0.4384057971014493
+2208 2208
+English Right 336 English Wrong 76 English Accuracy 0.8155339805825242
+Afrikaans Right 118 Afrikaans Wrong 10 Afrikaans accuracy 0.921875
+Nederlands Right 0 Nederlands Wrong 13 Nederlands accuracy 0.0
+Total Accuracy 0.8209764918625678
+Correct calls 1799 Incorrect calls 409 ratio correct: 0.8147644927536232
+2208 2208
+English Right 388 English Wrong 24 English Accuracy 0.941747572815534
+Afrikaans Right 106 Afrikaans Wrong 22 Afrikaans accuracy 0.828125
+Nederlands Right 1 Nederlands Wrong 12 Nederlands accuracy 0.07692307692307693
+Total Accuracy 0.895117540687161
+Correct calls 1910 Incorrect calls 298 ratio correct: 0.865036231884058
+English Right 294 English Wrong 118 English Accuracy 0.7135922330097088
+Afrikaans Right 126 Afrikaans Wrong 2 Afrikaans accuracy 0.984375
+Nederlands Right 0 Nederlands Wrong 13 Nederlands accuracy 0.0
+Total Accuracy 0.759493670886076
+Correct calls 1930 Incorrect calls 278 ratio correct: 0.8740942028985508
+English Right 405 English Wrong 7 English Accuracy 0.9830097087378641
+Afrikaans Right 107 Afrikaans Wrong 21 Afrikaans accuracy 0.8359375
+Nederlands Right 3 Nederlands Wrong 10 Nederlands accuracy 0.23076923076923078
+Total Accuracy 0.9312839059674503
+Correct calls 1925 Incorrect calls 283 ratio correct: 0.8718297101449275
+English Right 409 English Wrong 3 English Accuracy 0.9927184466019418
+Afrikaans Right 104 Afrikaans Wrong 24 Afrikaans accuracy 0.8125
+Nederlands Right 3 Nederlands Wrong 10 Nederlands accuracy 0.23076923076923078
+Total Accuracy 0.9330922242314648
+Correct calls 1962 Incorrect calls 246 ratio correct: 0.8885869565217391
+English Right 402 English Wrong 10 English Accuracy 0.9757281553398058
+Afrikaans Right 102 Afrikaans Wrong 26 Afrikaans accuracy 0.796875
+Nederlands Right 5 Nederlands Wrong 8 Nederlands accuracy 0.38461538461538464
+Total Accuracy 0.9204339963833634
+Correct calls 1981 Incorrect calls 227 ratio correct: 0.8971920289855072
+English Right 391 English Wrong 21 English Accuracy 0.9490291262135923
+Afrikaans Right 111 Afrikaans Wrong 17 Afrikaans accuracy 0.8671875
+Nederlands Right 8 Nederlands Wrong 5 Nederlands accuracy 0.6153846153846154
+Total Accuracy 0.9222423146473779
+Correct calls 2009 Incorrect calls 199 ratio correct: 0.9098731884057971
+English Right 376 English Wrong 36 English Accuracy 0.912621359223301
+Afrikaans Right 112 Afrikaans Wrong 16 Afrikaans accuracy 0.875
+Nederlands Right 10 Nederlands Wrong 3 Nederlands accuracy 0.7692307692307693
+Total Accuracy 0.9005424954792043
+Correct calls 2024 Incorrect calls 184 ratio correct: 0.9166666666666666
+English Right 398 English Wrong 14 English Accuracy 0.9660194174757282
+Afrikaans Right 118 Afrikaans Wrong 10 Afrikaans accuracy 0.921875
+Nederlands Right 4 Nederlands Wrong 9 Nederlands accuracy 0.3076923076923077
+Total Accuracy 0.9403254972875226
+Correct calls 2009 Incorrect calls 199 ratio correct: 0.9098731884057971
+English Right 395 English Wrong 17 English Accuracy 0.9587378640776699
+Afrikaans Right 119 Afrikaans Wrong 9 Afrikaans accuracy 0.9296875
+Nederlands Right 5 Nederlands Wrong 8 Nederlands accuracy 0.38461538461538464
+Total Accuracy 0.9385171790235082
+Correct calls 2079 Incorrect calls 129 ratio correct: 0.9415760869565217
+English Right 399 English Wrong 13 English Accuracy 0.9684466019417476
+Afrikaans Right 121 Afrikaans Wrong 7 Afrikaans accuracy 0.9453125
+Nederlands Right 7 Nederlands Wrong 6 Nederlands accuracy 0.5384615384615384
+Total Accuracy 0.9529837251356239
+Correct calls 2058 Incorrect calls 150 ratio correct: 0.9320652173913043
+English Right 390 English Wrong 22 English Accuracy 0.9466019417475728
+Afrikaans Right 123 Afrikaans Wrong 5 Afrikaans accuracy 0.9609375
+Nederlands Right 9 Nederlands Wrong 4 Nederlands accuracy 0.6923076923076923
+Total Accuracy 0.9439421338155516
+Correct calls 2097 Incorrect calls 111 ratio correct: 0.9497282608695652
+English Right 392 English Wrong 20 English Accuracy 0.9514563106796117
+Afrikaans Right 120 Afrikaans Wrong 8 Afrikaans accuracy 0.9375
+Nederlands Right 7 Nederlands Wrong 6 Nederlands accuracy 0.5384615384615384
+Total Accuracy 0.9385171790235082
+Correct calls 2108 Incorrect calls 100 ratio correct: 0.9547101449275363
+English Right 397 English Wrong 15 English Accuracy 0.9635922330097088
+Afrikaans Right 123 Afrikaans Wrong 5 Afrikaans accuracy 0.9609375
+Nederlands Right 6 Nederlands Wrong 7 Nederlands accuracy 0.46153846153846156
+Total Accuracy 0.9511754068716094
+Correct calls 2128 Incorrect calls 80 ratio correct: 0.9637681159420289
+English Right 392 English Wrong 20 English Accuracy 0.9514563106796117
+Afrikaans Right 122 Afrikaans Wrong 6 Afrikaans accuracy 0.953125
+Nederlands Right 9 Nederlands Wrong 4 Nederlands accuracy 0.6923076923076923
+Total Accuracy 0.945750452079566
+Correct calls 2128 Incorrect calls 80 ratio correct: 0.9637681159420289
+English Right 394 English Wrong 18 English Accuracy 0.9563106796116505
+Afrikaans Right 121 Afrikaans Wrong 7 Afrikaans accuracy 0.9453125
+Nederlands Right 9 Nederlands Wrong 4 Nederlands accuracy 0.6923076923076923
+Total Accuracy 0.9475587703435805
+Correct calls 2128 Incorrect calls 80 ratio correct: 0.9637681159420289
+English Right 382 English Wrong 30 English Accuracy 0.9271844660194175
+Afrikaans Right 121 Afrikaans Wrong 7 Afrikaans accuracy 0.9453125
+Nederlands Right 10 Nederlands Wrong 3 Nederlands accuracy 0.7692307692307693
+Total Accuracy 0.9276672694394213
+Correct calls 2147 Incorrect calls 61 ratio correct: 0.9723731884057971
+English Right 400 English Wrong 12 English Accuracy 0.970873786407767
+Afrikaans Right 119 Afrikaans Wrong 9 Afrikaans accuracy 0.9296875
+Nederlands Right 10 Nederlands Wrong 3 Nederlands accuracy 0.7692307692307693
+Total Accuracy 0.9566003616636528
+Correct calls 2147 Incorrect calls 61 ratio correct: 0.9723731884057971
+English Right 399 English Wrong 13 English Accuracy 0.9684466019417476
+Afrikaans Right 120 Afrikaans Wrong 8 Afrikaans accuracy 0.9375
+Nederlands Right 10 Nederlands Wrong 3 Nederlands accuracy 0.7692307692307693
+Total Accuracy 0.9566003616636528
+Correct calls 2149 Incorrect calls 59 ratio correct: 0.9732789855072463
+English Right 402 English Wrong 10 English Accuracy 0.9757281553398058
+Afrikaans Right 121 Afrikaans Wrong 7 Afrikaans accuracy 0.9453125
+Nederlands Right 6 Nederlands Wrong 7 Nederlands accuracy 0.46153846153846156
+Total Accuracy 0.9566003616636528
+Correct calls 2170 Incorrect calls 38 ratio correct: 0.9827898550724637
+English Right 403 English Wrong 9 English Accuracy 0.9781553398058253
+Afrikaans Right 122 Afrikaans Wrong 6 Afrikaans accuracy 0.953125
+Nederlands Right 6 Nederlands Wrong 7 Nederlands accuracy 0.46153846153846156
+Total Accuracy 0.9602169981916817
+Correct calls 2166 Incorrect calls 42 ratio correct: 0.9809782608695652
+English Right 395 English Wrong 17 English Accuracy 0.9587378640776699
+Afrikaans Right 118 Afrikaans Wrong 10 Afrikaans accuracy 0.921875
+Nederlands Right 10 Nederlands Wrong 3 Nederlands accuracy 0.7692307692307693
+Total Accuracy 0.945750452079566
+Correct calls 2183 Incorrect calls 25 ratio correct: 0.988677536231884
+English Right 404 English Wrong 8 English Accuracy 0.9805825242718447
+Afrikaans Right 121 Afrikaans Wrong 7 Afrikaans accuracy 0.9453125
+Nederlands Right 8 Nederlands Wrong 5 Nederlands accuracy 0.6153846153846154
+Total Accuracy 0.9638336347197106
+Correct calls 2187 Incorrect calls 21 ratio correct: 0.9904891304347826
+English Right 404 English Wrong 8 English Accuracy 0.9805825242718447
+Afrikaans Right 118 Afrikaans Wrong 10 Afrikaans accuracy 0.921875
+Nederlands Right 8 Nederlands Wrong 5 Nederlands accuracy 0.6153846153846154
+Total Accuracy 0.9584086799276673
+Correct calls 2180 Incorrect calls 28 ratio correct: 0.9873188405797102
+English Right 406 English Wrong 6 English Accuracy 0.9854368932038835
+Afrikaans Right 117 Afrikaans Wrong 11 Afrikaans accuracy 0.9140625
+Nederlands Right 9 Nederlands Wrong 4 Nederlands accuracy 0.6923076923076923
+Total Accuracy 0.9620253164556962
+Correct calls 2157 Incorrect calls 51 ratio correct: 0.9769021739130435
+English Right 402 English Wrong 10 English Accuracy 0.9757281553398058
+Afrikaans Right 118 Afrikaans Wrong 10 Afrikaans accuracy 0.921875
+Nederlands Right 9 Nederlands Wrong 4 Nederlands accuracy 0.6923076923076923
+Total Accuracy 0.9566003616636528
+Correct calls 2192 Incorrect calls 16 ratio correct: 0.9927536231884058
+English Right 394 English Wrong 18 English Accuracy 0.9563106796116505
+Afrikaans Right 120 Afrikaans Wrong 8 Afrikaans accuracy 0.9375
+Nederlands Right 10 Nederlands Wrong 3 Nederlands accuracy 0.7692307692307693
+Total Accuracy 0.9475587703435805
+Correct calls 2194 Incorrect calls 14 ratio correct: 0.9936594202898551
+English Right 404 English Wrong 8 English Accuracy 0.9805825242718447
+Afrikaans Right 120 Afrikaans Wrong 8 Afrikaans accuracy 0.9375
+Nederlands Right 7 Nederlands Wrong 6 Nederlands accuracy 0.5384615384615384
+Total Accuracy 0.9602169981916817
+Correct calls 2195 Incorrect calls 13 ratio correct: 0.9941123188405797
+English Right 375 English Wrong 37 English Accuracy 0.9101941747572816
+Afrikaans Right 122 Afrikaans Wrong 6 Afrikaans accuracy 0.953125
+Nederlands Right 10 Nederlands Wrong 3 Nederlands accuracy 0.7692307692307693
+Total Accuracy 0.9168173598553345
+Correct calls 2182 Incorrect calls 26 ratio correct: 0.9882246376811594
+English Right 396 English Wrong 16 English Accuracy 0.9611650485436893
+Afrikaans Right 123 Afrikaans Wrong 5 Afrikaans accuracy 0.9609375
+Nederlands Right 9 Nederlands Wrong 4 Nederlands accuracy 0.6923076923076923
+Total Accuracy 0.9547920433996383
