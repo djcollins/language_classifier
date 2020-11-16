@@ -169,8 +169,8 @@ def test_model(model):
         predicted_id = torch.max(probabilities, dim=1)[1].item()
         print(classes[predicted_id])
 def main():
-    model=torch.load("my_model")
-    test_model(model)
-    #main_train_loop()
+    #model=torch.load("my_model")
+    #test_model(model)
+    main_train_loop()
 main()
 #print(clean_string("Saam met ons, rondom ons, in ons en by ons is die onsienlike. Hy sal altyd daar wees."))

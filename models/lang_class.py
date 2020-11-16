@@ -1,4 +1,4 @@
-from abc import ABC
+
 from typing import List
 
 import torch
@@ -7,7 +7,7 @@ from torch import nn
 
 
 
-class LanguageClassifier(nn.Module, ABC):
+class LanguageClassifier(nn.Module):
 
     def __init__(self, num_chars, embedding_dim=40, num_out_clases=3, num_layers=6):
         super().__init__()
