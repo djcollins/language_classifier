@@ -1,5 +1,5 @@
 # language_classifier
-Language Classifier for Invictus Capital
+Language Classifier
 run play.py with python3
 
 Ensure all libraries are installed
